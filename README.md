@@ -150,7 +150,7 @@ npm start
 ### Tela de Reservas
 
 ![Reservas do Quarto](./Wireframes/Página%202%20-%20Reservas%20do%20Quarto.png)
-![Cadastrar Nova Reserva](./Wireframes/Página%202%20-%20Cadastrar%20Nova%20Reserva.png)
+![Cadastrar Nova Reserva](./Wireframes/Pagina%202%20-%20Cadastrar%20nova%20reserva.png)
 
 ---
 
