@@ -1,0 +1,758 @@
+type: collection.insomnia.rest/5.0
+schema_version: "5.1"
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1756465946326
+  modified: 1756465946326
+  description: ""
+collection:
+  - name: Biblioteca
+    meta:
+      id: fld_3a0e3eaff1694ae1bb36cc00afd4f7eb
+      created: 1756466395965
+      modified: 1756466395965
+      sortKey: -1756466395965
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_d4622b47c6ef499d8517703b6ac4c1d5
+          created: 1756466473754
+          modified: 1756485209565
+          sortKey: -1756466473754
+          description: ""
+      - name: Livros
+        meta:
+          id: fld_7178b9f2b85b4eb1a8a3d3976b2b7b3a
+          created: 1756476780459
+          modified: 1756476780459
+          sortKey: -1756476780459
+          description: ""
+  - name: Escola
+    meta:
+      id: fld_24cacce255bd406cb23cfb4b6e570909
+      created: 1757079276729
+      modified: 1757079276729
+      sortKey: -1757079276729
+      description: ""
+    children:
+      - name: Disciplinas
+        meta:
+          id: fld_5d966dbe3883458a97cb0f1fc3f7143e
+          created: 1757079461947
+          modified: 1757079483616
+          sortKey: -1757079461947
+          description: ""
+      - name: Possui
+        meta:
+          id: fld_e3349895b21e48b7b7d37c77bee2067c
+          created: 1757079501861
+          modified: 1757079501861
+          sortKey: -1757079369338
+          description: ""
+      - name: Professores
+        meta:
+          id: fld_33fe733f2175427ba8050642788be36a
+          created: 1757079510115
+          modified: 1757079510115
+          sortKey: -1757079323033.5
+          description: ""
+      - name: Turmas
+        meta:
+          id: fld_79b9f5eaee0f4dd28b2f819a372d8fb5
+          created: 1757079518395
+          modified: 1757079518395
+          sortKey: -1757079299881.25
+          description: ""
+  - name: Hotel
+    meta:
+      id: fld_09dbab89ad304280b63382c28eb92939
+      created: 1757703378158
+      modified: 1757703378158
+      sortKey: -1757703378158
+      description: ""
+  - name: Loja
+    meta:
+      id: fld_d63c7a7148b84b099caf7a24e8db004a
+      created: 1758288359279
+      modified: 1758288359279
+      sortKey: -1758288359279
+      description: ""
+    children:
+      - name: Pedidos
+        meta:
+          id: fld_c01f9c7a0fb943fd8fda1f84143cd97f
+          created: 1758288455873
+          modified: 1758288455873
+          sortKey: -1758288455873
+          description: ""
+      - name: Produtos
+        meta:
+          id: fld_4e879f681b61486ca69b01533d6adf5f
+          created: 1758288463628
+          modified: 1758288463628
+          sortKey: -1758288463628
+          description: ""
+      - name: Clientes
+        meta:
+          id: fld_dbc3224708374f058193a00bf025dc6c
+          created: 1758288471421
+          modified: 1758288471421
+          sortKey: -1758288471421
+          description: ""
+  - name: Locadora
+    meta:
+      id: fld_65c9468dc39249da9f750fcbba7e89bb
+      created: 1758893349490
+      modified: 1758893349490
+      sortKey: -1758893349490
+      description: ""
+  - name: Carona
+    meta:
+      id: fld_15757128df264b73aa88a8de6e47d322
+      created: 1759511178913
+      modified: 1759511178913
+      sortKey: -1759511178913
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_60d9b4a1c6b0461d877a04b7703a872c
+          created: 1759511953280
+          modified: 1759511959401
+          sortKey: -1759511953280
+          description: ""
+      - name: Caronas
+        meta:
+          id: fld_19ae2c6c3d53478f8040944f55e82a1c
+          created: 1759512021436
+          modified: 1759512021436
+          sortKey: -1759512021436
+          description: ""
+  - name: Teste
+    meta:
+      id: fld_795fa832752949859011ebc438851efe
+      created: 1761043903342
+      modified: 1761043903342
+      sortKey: -1761043903342
+      description: ""
+  - name: Clínica Médica 2
+    meta:
+      id: fld_402f36e988bc4caca947772a22fa0357
+      created: 1763127332160
+      modified: 1764071755257
+      sortKey: -1763127332160
+      description: ""
+    children:
+      - name: Consultas
+        meta:
+          id: fld_85dc399da0684a6f956fb8ad55e1d63b
+          created: 1763127368364
+          modified: 1763127368364
+          sortKey: -1763127368364
+          description: ""
+      - name: Especialidade
+        meta:
+          id: fld_0078f62a150b41fb9f6a690931d01120
+          created: 1763127383366
+          modified: 1763127383366
+          sortKey: -1763127383366
+          description: ""
+      - name: Médico
+        meta:
+          id: fld_b19e5a9e789f4b45ba7297946ec7ffb1
+          created: 1763127402276
+          modified: 1763127402276
+          sortKey: -1763127402276
+          description: ""
+      - name: Paciente
+        meta:
+          id: fld_42c0f68e11604b31947dcf3d90f3ecc9
+          created: 1763127414615
+          modified: 1763127426403
+          sortKey: -1763127414615
+          description: ""
+  - name: Clínica (em dupla)
+    meta:
+      id: fld_266059d7d8d84477a46acb8602a94953
+      created: 1764071784352
+      modified: 1764071784352
+      sortKey: -1764071784352
+      description: ""
+    children:
+      - name: Pacientes
+        meta:
+          id: fld_80dff7df946b4becb20f5082ad41b3c7
+          created: 1764091236763
+          modified: 1764091236763
+          sortKey: -1764091236763
+          description: ""
+      - name: Consultas
+        meta:
+          id: fld_b5bec3911081425f9c66b6a5997bb334
+          created: 1764091246275
+          modified: 1764091246275
+          sortKey: -1764091246275
+          description: ""
+      - name: Usuarios
+        meta:
+          id: fld_9ecd0232ca424b4da21718a776b99c09
+          created: 1764091253755
+          modified: 1764091259195
+          sortKey: -1764091253755
+          description: ""
+  - name: Cantina Escolar
+    meta:
+      id: fld_93acf609575d47fabcbcfcf7b343d358
+      created: 1764334627586
+      modified: 1764334627586
+      sortKey: -1764334627586
+      description: ""
+    children:
+      - name: Alunos
+        meta:
+          id: fld_9e0001def4fa45e3a5de9932c4999f9e
+          created: 1764334642832
+          modified: 1764334642832
+          sortKey: -1764334642832
+          description: ""
+      - name: Pedidos
+        meta:
+          id: fld_cb23923f434d4260b89cfcbf9ee9cee4
+          created: 1764334654328
+          modified: 1764334654328
+          sortKey: -1764334654328
+          description: ""
+      - name: Produtos
+        meta:
+          id: fld_e4b81c5703154b59a46bec3dc5eb7e36
+          created: 1764334661721
+          modified: 1764334661721
+          sortKey: -1764334661721
+          description: ""
+      - name: Relatórios
+        meta:
+          id: fld_2847c6ff9eb349f5919111402528bc1c
+          created: 1764336508644
+          modified: 1764336523746
+          sortKey: -1764336508644
+          description: ""
+  - name: Teste
+    meta:
+      id: fld_0be9f0e7e5824bd6bc03504c2be5592e
+      created: 1770396158481
+      modified: 1770396158481
+      sortKey: -1770396158481
+      description: ""
+  - name: Escola
+    meta:
+      id: fld_a3a033b8b9f04e44b9985227d2d773d0
+      created: 1771010420659
+      modified: 1771010420659
+      sortKey: -1771010420659
+      description: ""
+  - name: Aula 04 - 25.02
+    meta:
+      id: fld_6ef6cb4ea96b444589867a4d5b1e5d10
+      created: 1772218580368
+      modified: 1772218580368
+      sortKey: -1772218580368
+      description: ""
+    children:
+      - name: Clientes
+        meta:
+          id: fld_52a2141ca8734dd5bb84c8e9759b9044
+          created: 1772218580374
+          modified: 1772218580374
+          sortKey: -1772218580374
+          description: ""
+      - name: Carros
+        meta:
+          id: fld_41358bc9ceeb4b8e9277401cbeaf7a2a
+          created: 1772218580416
+          modified: 1772218580416
+          sortKey: -1772218580416
+          description: ""
+  - name: gitparty
+    meta:
+      id: fld_4b37c2f366dd4810a1dce96c38340408
+      created: 1773423353909
+      modified: 1773423353909
+      sortKey: -1773423353909
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_fdbb4b74986c45438be2602d4948ae62
+          created: 1773423353914
+          modified: 1773423353914
+          sortKey: -1773423353914
+          description: ""
+      - name: Eventos
+        meta:
+          id: fld_43dc9ec68437472aaa5802bd4ddca03d
+          created: 1773423353950
+          modified: 1773423353950
+          sortKey: -1773423353950
+          description: ""
+      - name: Inscricoes
+        meta:
+          id: fld_55f4897f1c684632bef5bbcd644cca97
+          created: 1773423354082
+          modified: 1773423354082
+          sortKey: -1773423354082
+          description: ""
+  - name: personasesi
+    meta:
+      id: fld_ee0777c097db45e5a2a32e1c48a7bd80
+      created: 1774469141756
+      modified: 1774469141756
+      sortKey: -1774469141756
+      description: ""
+    children:
+      - name: Alunos
+        meta:
+          id: fld_c53730b8babc4a90b09bf090c005589a
+          created: 1774469141761
+          modified: 1774469141761
+          sortKey: -1774469141761
+          description: ""
+      - name: Atividades
+        meta:
+          id: fld_7245448ccf864c3e9425b6d017a93ae0
+          created: 1774469141814
+          modified: 1774469141814
+          sortKey: -1774469141814
+          description: ""
+      - name: Professores
+        meta:
+          id: fld_b05cd9e21d17448caf8d5c4b268e4025
+          created: 1774469141942
+          modified: 1774469141942
+          sortKey: -1774469141942
+          description: ""
+      - name: Coordenadores
+        meta:
+          id: fld_1f5a6e0028a84217b541dbd074fffaad
+          created: 1774469141956
+          modified: 1774469141956
+          sortKey: -1774469141956
+          description: ""
+      - name: Responsaveis
+        meta:
+          id: fld_76833cbe1d11480e862e42303d90e5a7
+          created: 1774469141973
+          modified: 1774469141973
+          sortKey: -1774469141973
+          description: ""
+  - name: upload-file
+    meta:
+      id: fld_e9eec2f0276c49fbba907cf886e568ab
+      created: 1775843840112
+      modified: 1775843840112
+      sortKey: -1775843840112
+      description: ""
+    children:
+      - name: Publicacao
+        meta:
+          id: fld_89d9359a52424bbe82c71adb059aae57
+          created: 1775843840120
+          modified: 1775843840120
+          sortKey: -1775843840120
+          description: ""
+      - name: Imagem
+        meta:
+          id: fld_b52295f010ab4c4986d83acc4e3ee869
+          created: 1775843840150
+          modified: 1775843840150
+          sortKey: -1775843840150
+          description: ""
+  - name: Loja Sephoria
+    meta:
+      id: fld_6fc927c150aa44ffa9343a3b9032e8c8
+      created: 1776433952608
+      modified: 1776433952608
+      sortKey: -1776433952608
+      description: ""
+    children:
+      - name: Produtos
+        meta:
+          id: fld_8dbc0eae020445bcaa85d284d1a18979
+          created: 1776433975344
+          modified: 1776433975344
+          sortKey: -1776433975344
+          description: ""
+  - name: Back End
+    meta:
+      id: fld_6e5208e674894224a791f434599382a5
+      created: 1777490089105
+      modified: 1777490089105
+      sortKey: -1777490089105
+      description: ""
+    children:
+      - name: Tarefas
+        meta:
+          id: fld_591b01febb7545ccb315f5013b046633
+          created: 1777490089115
+          modified: 1777490089115
+          sortKey: -1777490089115
+          description: ""
+  - name: Estacionamento
+    meta:
+      id: fld_fd21dd2ede3d4218b7e71ebcf215a413
+      created: 1778095525400
+      modified: 1778095525400
+      sortKey: -1778095525400
+      description: ""
+    children:
+      - name: Automovel
+        meta:
+          id: fld_afa8b4f8fc474582872cb7fa8476efbf
+          created: 1778095568703
+          modified: 1778095568703
+          sortKey: -1778095568703
+          description: ""
+      - name: Estadia
+        meta:
+          id: fld_62b763d9ffce4d8dbd87e3718cde2ee7
+          created: 1778095583559
+          modified: 1778095583559
+          sortKey: -1778095547051.5
+          description: ""
+  - name: Persona Sesi - Back End
+    meta:
+      id: fld_396557f0d0a441928fb30c7e7c498a7f
+      created: 1779476981666
+      modified: 1779476981666
+      sortKey: -1779476981666
+      description: ""
+    children:
+      - name: Alunos
+        meta:
+          id: fld_f93a83c76917474b8cd2b2111db01681
+          created: 1779476981682
+          modified: 1779476981682
+          sortKey: -1779476981682
+          description: ""
+      - name: Atividades
+        meta:
+          id: fld_f6333921443d409c8760d9082f42dba9
+          created: 1779476981733
+          modified: 1779476981733
+          sortKey: -1779476981733
+          description: ""
+      - name: Coordenadores
+        meta:
+          id: fld_fd81410cfcaf4d54a8c4d63c917b9e3b
+          created: 1779476981878
+          modified: 1779476981878
+          sortKey: -1779476981878
+          description: ""
+      - name: Professores
+        meta:
+          id: fld_9453affca7ae40d58ee6a76f1ba7c2c9
+          created: 1779476981900
+          modified: 1779476981900
+          sortKey: -1779476981900
+          description: ""
+      - name: Responsaveis
+        meta:
+          id: fld_e8e9b95b3ebc4bd890d9dce7fd688e0a
+          created: 1779476981927
+          modified: 1779476981927
+          sortKey: -1779476981927
+          description: ""
+  - name: Hotel Reservas - BE
+    meta:
+      id: fld_3bef70ea1eb44e73a37753ba7b0cc591
+      created: 1781267576515
+      modified: 1781267576515
+      sortKey: -1781267576515
+      description: ""
+    children:
+      - name: Quarto
+        meta:
+          id: fld_8e959b89d6264033b719ffa5b435ea86
+          created: 1781267576523
+          modified: 1781267576523
+          sortKey: -1781267576523
+          description: ""
+        children:
+          - url: http://localhost:3000/quartos/listar
+            name: Listar
+            meta:
+              id: req_a9eacac60a3d44d6aa67d85789894be5
+              created: 1781267576530
+              modified: 1781267798735
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576530
+            method: GET
+            body:
+              mimeType: application/json
+              text: ""
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/quartos/buscar/2
+            name: Buscar
+            meta:
+              id: req_6b114d3af8174a1e8705d270769e0266
+              created: 1781267576535
+              modified: 1781270659093
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576535
+            method: GET
+            body:
+              mimeType: application/json
+              text: ""
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/quartos/cadastrar
+            name: Cadastrar
+            meta:
+              id: req_9910987b055f45e8acf09d8753ee51d6
+              created: 1781267576541
+              modified: 1781281008236
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576541
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "numeroQuarto": "159",
+                  "tipoQuarto": "Casal"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/quartos/atualizar/2
+            name: Atualizar
+            meta:
+              id: req_b07370c9f740445faa557cdad2c2ea6f
+              created: 1781267576562
+              modified: 1781270685255
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576562
+            method: PUT
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "numeroQuarto": "155"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/quartos/excluir/3
+            name: Excluir
+            meta:
+              id: req_e9c9ce281526469ab99a4defcf71d110
+              created: 1781267576567
+              modified: 1781270777004
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576567
+            method: DELETE
+            body:
+              mimeType: application/json
+              text: ""
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Reserva
+        meta:
+          id: fld_d65e983d3fc84862aa3d7a74e90392f8
+          created: 1781267576573
+          modified: 1781267576573
+          sortKey: -1781267576573
+          description: ""
+        children:
+          - url: http://localhost:3000/reservas/listar
+            name: Listar
+            meta:
+              id: req_633693f87a204f21a3dcbe64aef1ceb8
+              created: 1781267576578
+              modified: 1781267859586
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576578
+            method: GET
+            body:
+              mimeType: application/json
+              text: ""
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/reservas/buscar/5
+            name: Buscar
+            meta:
+              id: req_b7a284b126db4ff2b6836bf5d92e0e0f
+              created: 1781267576583
+              modified: 1781281069309
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576583
+            method: GET
+            body:
+              mimeType: application/json
+              text: ""
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/reservas/cadastrar
+            name: Cadastrar
+            meta:
+              id: req_7a75891f84734c3ab068efa4c87319e4
+              created: 1781267576589
+              modified: 1781281052186
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576589
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "hospede": "Amanda da Cruz",
+                  "dataEntrada": "2026-07-02T12:32:24.053Z",
+                  "dataSaida": "2026-07-07T12:32:24.054Z",
+                  "quartoId": 9
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/reservas/atualizar/2
+            name: Atualizar
+            meta:
+              id: req_b6cf645336004936b5faace412e116c8
+              created: 1781267576594
+              modified: 1781271276404
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576594
+            method: PUT
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"quartoId": 6
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/reservas/excluir/1
+            name: Excluir
+            meta:
+              id: req_a0c8b37111e94a44b34fc595187857b3
+              created: 1781267576600
+              modified: 1781271063488
+              isPrivate: false
+              description: ""
+              sortKey: -1781267576600
+            method: DELETE
+            body:
+              mimeType: application/json
+              text: ""
+            headers:
+              - name: Content-Type
+                value: application/json
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1756466032600
+    modified: 1756466032600
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1756466032436
+    modified: 1756466032436
+    isPrivate: false
