@@ -43,14 +43,14 @@ Sistema de gerenciamento de quartos e reservas desenvolvido para facilitar o con
 ```
 hotelreservas/
 │
-├── api/
+├── src/
 │   ├── controllers/
-│   │   ├── quartoController.js
-│   │   └── reservaController.js
+│   │   ├── quartos.controller.js
+│   │   └── reservas.controller.js
 │   │
 │   ├── routes/
-│   │   ├── quartoRoutes.js
-│   │   └── reservaRoutes.js
+│   │   ├── quartos.routes.js
+│   │   └── reservas.routes.js
 │   │
 │   ├── config/
 │   │   └── prisma.js
@@ -71,8 +71,8 @@ hotelreservas/
 │   └── migration.sql
 │
 ├── wireframes/
-│   ├── tela-quartos.png
-│   └── tela-reservas.png
+│   ├── Página 1 - Quartos
+│   └── Página 2 - Reservas
 │
 └── README.md
 ```
@@ -98,7 +98,7 @@ npm install
    Crie um arquivo `.env` na raiz do projeto:
 
 ```
-DATABASE_URL="mysql://usuario:senha@localhost:3306/hotel_db"
+DATABASE_URL="mysql://root@localhost:3306/hotel_db"
 PORT=3000
 ```
 
